@@ -1,0 +1,11 @@
+{
+    "appName": "smashanalyzer",
+    "roleName": "pinpointLambdaRolebb1a2e60",
+    "cloudWatchPolicyName": "cloudWatchPolicybb1a2e60",
+    "pinpointPolicyName": "pinpointPolicybb1a2e60",
+    "authPolicyName": "pinpoint_amplify_bb1a2e60",
+    "unauthPolicyName": "pinpoint_amplify_bb1a2e60",
+    "authRoleName": "mashcores-20181214221650-authRole",
+    "unauthRoleName": "mashcores-20181214221650-unauthRole",
+    "IAMPrefix": "935206595172"
+}

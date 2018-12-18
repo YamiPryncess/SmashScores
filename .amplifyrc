@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "mashcores-20181214221650-authRole",
+            "UnauthRoleArn": "arn:aws:iam::935206595172:role/mashcores-20181214221650-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::935206595172:role/mashcores-20181214221650-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "mashcores-20181214221650-deployment",
+            "UnauthRoleName": "mashcores-20181214221650-unauthRole",
+            "StackName": "mashcores-20181214221650",
+            "StackId": "arn:aws:cloudformation:us-east-2:935206595172:stack/mashcores-20181214221650/dd5035e0-0017-11e9-8659-0a5f3eca4dfa"
+        }
+    }
+}

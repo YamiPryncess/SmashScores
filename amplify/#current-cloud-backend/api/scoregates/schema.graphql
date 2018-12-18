@@ -1,0 +1,7 @@
+type Player @model {
+  id: ID!
+  name: String!
+  wins: Int
+  loses: Int
+  ties: Int
+}

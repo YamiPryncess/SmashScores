@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "scoregates",
+    "schemaGraphql": "s3://mashcores-20181214221650-deployment/amplify-appsync-files/schema.graphql.1544896362044",
+    "ResolverBucket": "mashcores-20181214221650-deployment",
+    "ResolverRootKey": "amplify-appsync-files",
+    "DeploymentTimestamp": "1544896362044"
+}
