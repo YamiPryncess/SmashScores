@@ -8,5 +8,3 @@ Native Mobile Game Score Tracking App for Smash Ultimate.
 
 ● Input seamlessly creates, updates, & stores player information on
 the front end via Graphql & Aws Amplify API.
-
-This is not an official project.
